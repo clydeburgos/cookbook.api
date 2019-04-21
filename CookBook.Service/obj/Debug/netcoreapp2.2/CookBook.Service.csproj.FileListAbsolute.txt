@@ -1,0 +1,12 @@
+D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Service\bin\Debug\netcoreapp2.2\CookBook.Service.deps.json
+D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Service\bin\Debug\netcoreapp2.2\CookBook.Service.dll
+D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Service\bin\Debug\netcoreapp2.2\CookBook.Service.pdb
+D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Service\obj\Debug\netcoreapp2.2\CookBook.Service.csprojAssemblyReference.cache
+D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Service\obj\Debug\netcoreapp2.2\CookBook.Service.csproj.CoreCompileInputs.cache
+D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Service\obj\Debug\netcoreapp2.2\CookBook.Service.AssemblyInfoInputs.cache
+D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Service\obj\Debug\netcoreapp2.2\CookBook.Service.AssemblyInfo.cs
+D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Service\obj\Debug\netcoreapp2.2\CookBook.Service.dll
+D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Service\obj\Debug\netcoreapp2.2\CookBook.Service.pdb
+D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Service\bin\Debug\netcoreapp2.2\CookBook.Data.dll
+D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Service\bin\Debug\netcoreapp2.2\CookBook.Data.pdb
+D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Service\obj\Debug\netcoreapp2.2\CookBook.Service.csproj.CopyComplete
