@@ -9,7 +9,7 @@ namespace CookBook.Service.AzureServices
 {
     public class BingSearchImageService
     {
-        const string subscriptionKey = "";
+        const string subscriptionKey = "ec11e192dd8640e2baad94713f2d8e60";
         const string uriBase = "https://centralus.api.cognitive.microsoft.com/bing/v7.0/images/search";
 
         public BingSearchImageService()
