@@ -1,8 +1,0 @@
-D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Data\bin\Debug\netcoreapp2.2\CookBook.Data.deps.json
-D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Data\bin\Debug\netcoreapp2.2\CookBook.Data.dll
-D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Data\obj\Debug\netcoreapp2.2\CookBook.Data.csproj.CoreCompileInputs.cache
-D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Data\obj\Debug\netcoreapp2.2\CookBook.Data.AssemblyInfoInputs.cache
-D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Data\obj\Debug\netcoreapp2.2\CookBook.Data.AssemblyInfo.cs
-D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Data\bin\Debug\netcoreapp2.2\CookBook.Data.pdb
-D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Data\obj\Debug\netcoreapp2.2\CookBook.Data.dll
-D:\Projects\Projects\Traction\CookBook\CookBook\CookBook.Data\obj\Debug\netcoreapp2.2\CookBook.Data.pdb
